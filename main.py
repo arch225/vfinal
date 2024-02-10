@@ -8,7 +8,7 @@ from sdv.single_table import CTGANSynthesizer,GaussianCopulaSynthesizer,TVAESynt
 from sdv.lite import SingleTablePreset
 from datetime import date
 
-
+##oh yeaaaaahh
 def Gen_data(model,rows):
     try:
         if model=='FastML':
